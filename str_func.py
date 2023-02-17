@@ -1,6 +1,7 @@
 def upper_letter(offer=input()):
     '''Увеличивает все буквы в строке'''
     offer_upper = offer.upper()
+    """дополнительный докстринг с githab"""
     print(offer_upper)
 
 def title_letter(offer=input()):
